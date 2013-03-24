@@ -3,20 +3,20 @@ Zwetschgenkuchen
 
 Zutaten
 -------
-200 g Weizenmehl
-100 g Margarine
-100 g Marzipanmasse
-150 g gehobelte Mandeln
-140 g Zucker
-60 g Butter
-Salz
-3 Eier
-2 TL Zitronenschalen
-2 TL Backpulver
-2 EL saure Sahne
-2 EL Honig
-1 MSp Zimt
-3 TL Mehl
+* 200 g Weizenmehl
+* 100 g Margarine
+* 100 g Marzipanmasse
+* 150 g gehobelte Mandeln
+* 140 g Zucker
+* 60 g Butter
+* Salz
+* 3 Eier
+* 2 TL Zitronenschalen
+* 2 TL Backpulver
+* 2 EL saure Sahne
+* 2 EL Honig
+* 1 MSp Zimt
+* 3 TL Mehl
 
 Zubereitung
 -----------
