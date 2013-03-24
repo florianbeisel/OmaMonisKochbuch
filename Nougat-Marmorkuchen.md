@@ -8,9 +8,9 @@ Zutaten für ca 24 Stücke
 * 1 Pkg Vanillin-Zucker
 * 1 Prise Salz
 * 3 Eier (Gewichtsklasse 3)
- * 250 g Nußnougat (schnittfest)
- * 50 g gemahlene Haselnüsse
- * 10 g Kokosfett
+* 250 g Nußnougat (schnittfest)
+* 50 g gemahlene Haselnüsse
+* 10 g Kokosfett
 
  Zubereitung:
  ------------
