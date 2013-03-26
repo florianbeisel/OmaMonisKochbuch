@@ -1,7 +1,7 @@
 Irish Chocolate Potato Candy
 =======================
 
-* 4 Tassen Puderzucker
+* 3-4 Tassen Puderzucker
 * 5 Tassen Kokosflocken
 * 1 Tasse gekochte, zerdrückte Kartoffeln (abkühlen lassen)
 * 1/2 TL Salz
